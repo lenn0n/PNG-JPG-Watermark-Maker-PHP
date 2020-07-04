@@ -2,7 +2,7 @@
 
 //Initialize variables, paths
 include 'watermark/watermark.php';
-$textWatermark = "liezelcuya@designershub.com"; //text type ng watermark, pwedeng sql query
+$textWatermark = "https://github.com/lenn0n/"; //text type ng watermark, pwedeng sql query
 $imgWaterMark = 'watermark/watermark.png'; //path ng watermark png file
 
 
